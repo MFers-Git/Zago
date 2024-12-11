@@ -2,6 +2,6 @@
 
 ###
 
-<h2 align="center">Jogo educacional para o ensino introdutório de programação</h2>
+<h2 align="center">Jogo educacional para o ensino introdutório de programação (Android)</h2>
 
 ###
